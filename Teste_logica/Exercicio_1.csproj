@@ -8,7 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="SQLitePCLRaw.core" Version="2.0.7" />
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="SQLite.CodeFirst" Version="1.7.0.34" />
+    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.115.5" />
   </ItemGroup>
 
 </Project>
