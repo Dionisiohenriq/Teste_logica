@@ -13,7 +13,7 @@ namespace Exercicio_1.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202112310902354_001"; }
+            get { return "202112310927549_001"; }
         }
         
         string IMigrationMetadata.Source
