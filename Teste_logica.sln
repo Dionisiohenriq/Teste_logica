@@ -5,9 +5,14 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_1", "Teste_logica\Exercicio_1.csproj", "{EDC80DC0-21D1-44C7-9716-DF727A1B7DD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_1.2", "Exercicio_1.2\Exercicio_1.2.csproj", "{6E69123B-FA1B-4393-AEF5-1B77DF395746}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_1.2", "Exercicio_1.2\Exercicio_1.2.csproj", "{6E69123B-FA1B-4393-AEF5-1B77DF395746}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_2.1", "Exercicio_2.1\Exercicio_2.1.csproj", "{F5DAFF97-5862-4647-A626-3B4DA3AB6B5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_2.1", "Exercicio_2.1\Exercicio_2.1.csproj", "{F5DAFF97-5862-4647-A626-3B4DA3AB6B5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{172A5908-87EB-439E-98E2-4FA66709B952}"
+	ProjectSection(SolutionItems) = preProject
+		Bhaskara.cs = Bhaskara.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
